@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LifelineView">
+        <attr name="steps" format="integer" />
+        <attr name="selected" format="integer" />
+        <attr name="stepRadius" format="dimension" />
+        <attr name="lineColor" format="color" />
+        <attr name="stepDefaultColor" format="color" />
+        <attr name="stepSelectedColor" format="color" />
+        <attr name="lineThickness" format="integer" />
+    </declare-styleable>
+</resources>
