@@ -56,11 +56,6 @@ public class MyFragment extends Fragment {
         lifelineView = (LifelineView) findViewById(R.id.lifelineView);
         lifelineView.setSelected(2);
     }
-
-    @AfterViews
-    void init() {
-
-    }
 }
 ```
 
